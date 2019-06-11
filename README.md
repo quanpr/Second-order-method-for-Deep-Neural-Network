@@ -1,4 +1,4 @@
-# Second-order method for Deep Neural Network
+# Second-order optimization method for Deep Neural Network
 
 
 Codes for ECE 236C to fullfill the course requriements.
